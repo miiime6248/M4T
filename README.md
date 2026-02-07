@@ -79,11 +79,7 @@ Visualizes minimalism—the brand's core value—as its primary aesthetic princi
      - Variants : Mono, Neon, Neon Alter
        
 <img width="562" height="965" alt="001" src="https://github.com/user-attachments/assets/97bea822-ffa8-4ea2-a670-f34b68d115dd" />
-
-<img width="906" height="1012" alt="all_004_1" src="https://github.com/user-attachments/assets/c551a101-abc9-4aa1-8369-9ddec4365a74" />
-
-
-
+<img width="842" height="1012" alt="all_005_1" src="https://github.com/user-attachments/assets/b3d551e5-acfc-4da0-be9b-9ecc867d0217" />
 <img width="541" height="1294" alt="20260201_205129" src="https://github.com/user-attachments/assets/891247a4-adac-4736-97aa-807df3e8ff1d" />
 
 ---
