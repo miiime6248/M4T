@@ -2,6 +2,9 @@
 
 ### 4-Bit Brutalism
 
+![Logic](https://img.shields.io/badge/Logic-4--Bit%20Primitive-0078D4?style=flat-square)
+![AA](https://img.shields.io/badge/AA-Zero%20(No--AA)-blue?style=flat-square)
+
 <br>
 <img width="559" height="136" alt="001" src="https://github.com/user-attachments/assets/6d46085c-2b46-4d34-835b-de97f2b28f7c" style="margin-top: 20px; margin-bottom: 20px;">
 <br><br>
