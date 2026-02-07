@@ -61,7 +61,7 @@ Visualizes minimalism—the brand's core value—as its primary aesthetic princi
 <br><br>
 
    * Assets :
-     - Logo (png-8): Mono, Neon
+     - Logo (png-8) : Mono, Neon
      - Icons (ico) : 16x16, 32x32, 48x48, 64x64
        (Favicon, Folder, Program, Exit)
      - Variants : Mono, Neon, Neon Alter
@@ -76,7 +76,7 @@ Visualizes minimalism—the brand's core value—as its primary aesthetic princi
 <br><br>
 
    * Assets :
-     - Logo (png-8): Mono, Neon
+     - Logo (png-8) : Mono, Neon
      - Icons (ico) : 16x16, 32x32, 48x48, 64x64
        (Favicon, Folder, Program, Exit)
      - Variants : Mono, Neon, Neon Alter
