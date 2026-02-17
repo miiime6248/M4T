@@ -87,9 +87,6 @@ Visualizes 4-Bit Brutalism—the brand's core value—as its primary aesthetic p
 
 ---
 
-<br>
-<img width="64" height="64" alt="002" src="https://github.com/user-attachments/assets/bbe6602c-b38f-4db5-b7cd-3e4cbc2e4f86" style="margin-top: 20px; margin-bottom: 20px;">
-
 ## Disclaimer
 
 Provided **“AS IS”**, without warranty.  
@@ -102,7 +99,15 @@ This is a **private project**. No technical support is provided.
 
 ## Project Information
 
-- **Developer** : MIIIME  
-- **Website** : https://www.miiime.com
-- **GitHub** : [@miiime6248](https://github.com/miiime6248)  
-- **Last Update** : 2026-02-07
+**Developer** : MIIIME  
+**Website** : https://www.miiime.com  
+**GitHub** : [@miiime6248](https://github.com/miiime6248)  
+**Last Update** : 2026-02-14  
+
+<br>
+<img width="64" height="64" alt="002" src="https://github.com/user-attachments/assets/bbe6602c-b38f-4db5-b7cd-3e4cbc2e4f86">  
+<br>
+<br>
+<br>
+
+
