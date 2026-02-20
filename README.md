@@ -2,6 +2,7 @@
 
 ### 4-Bit Brutalism
 
+![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
 ![Logic](https://img.shields.io/badge/Logic-4--Bit%20Primitive-0078D4?style=flat-square)
 ![AA](https://img.shields.io/badge/AA-Zero%20(No--AA)-blue?style=flat-square)
 
