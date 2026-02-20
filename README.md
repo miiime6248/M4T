@@ -13,7 +13,7 @@ A unified structure combining the English "MIIIME" and the Korean "ㅁㅣㅣㅣ�
 Visualizes 4-Bit Brutalism—the brand's core value—as its primary aesthetic principle.
 
 영어의 MIIIME 와 한글의 ㅁㅣㅣㅣㅁㅓㅣㅣ를 하나의 조형으로 결합.  
-4-비트 원시주의를 최우선의 조형적 가치로 시각화.
+4-비트 원시주의를 전제로 시각화.
 
 ---
 
